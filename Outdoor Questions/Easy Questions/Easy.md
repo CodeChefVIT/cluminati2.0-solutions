@@ -144,7 +144,9 @@ This is the **Blue-Eyed Islander** puzzle. With 100 blue-eyed people:
 
 Find the person without a mustache.
 
-![Where's Waldo style image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHsUBLtj0-6geHMZgBAiAcqxhve2fXf4hkTR2xpJp0rXeSwGigHvlyRf4c0-9Uqm1o7GB93np1YWM_n8wDEZQFWcPED2sdj6bZNVHksPIDzAyuovCK9KEWDbMtQ5lwuLPLoRdLFJT-xvP8WJ4_vNEIifa8=s800?key=YcbHbyU8i5IPI2ODEc28LA "Where's Waldo style image")
+<div style="width: 50%; overflow: hidden;">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHsUBLtj0-6geHMZgBAiAcqxhve2fXf4hkTR2xpJp0rXeSwGigHvlyRf4c0-9Uqm1o7GB93np1YWM_n8wDEZQFWcPED2sdj6bZNVHksPIDzAyuovCK9KEWDbMtQ5lwuLPLoRdLFJT-xvP8WJ4_vNEIifa8=s800?key=YcbHbyU8i5IPI2ODEc28LA" style="width: 200%; height: auto;">
+</div>
 
 **Answer:** Point out the person without the mustache to the station rep.
 
