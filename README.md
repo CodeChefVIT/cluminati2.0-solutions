@@ -19,8 +19,9 @@
 This repository contains both the indoor storyline and the outside puzzles from Clueminati 2.0, arranged and made available to revisit and reminisce for those who had the opportunity to attend our event, and those who did not.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/CodeChefVIT/cookoff9.0-solutions/94b7972e0e967af74e510e946c82897a1f45029f/illustrations/CodeChef-VIT%20New%20Logo%203.svg?token=BCT2XXETTUZVGGSK5WYYEZ3HDOFJG" alt="CodeChef VIT Logo" style="display: inline-block; width: 150px;">
+    <img src="https://i.imgur.com/3l8mTsW.png" alt="CodeChef VIT Logo" style="display: inline-block; width: 150px;">
 </div>
+
 
 Get Involved
 ----
